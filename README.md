@@ -18,7 +18,7 @@ To install all the dependences of the project, run the following command:
 
 
 #### Source Code:
- - Link : [https://github.com/shakti1590/Contact-list-using-react](https://github.com/ankurrrai/Contact-list-React)
+ - Link : (https://github.com/ankurrrai/Contact-list-React)
 
 
 #### Deployment Link:
