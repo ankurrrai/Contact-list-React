@@ -12,20 +12,17 @@
 
 To install all the dependences of the project, run the following command:
 
-    git clone https://github.com/shakti1590/Contact-list-using-react.git
+    git clone https://github.com/ankurrrai/Contact-list-React.git
     npm install
     npm start
 
 
 #### Source Code:
- - Link : https://github.com/shakti1590/Contact-list-using-react
+ - Link : [https://github.com/shakti1590/Contact-list-using-react](https://github.com/ankurrrai/Contact-list-React)
 
 
 #### Deployment Link:
- - Link : https://contact-list-using-react.vercel.app/
+ - Link : https://contact-list-react-app-fbyf.onrender.com/
 
 
-<p align="center">
-  Show some :heart: by starring the repository.
-</p>
 
